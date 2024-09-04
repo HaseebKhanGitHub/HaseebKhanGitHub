@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Haseeb Khan, a passionate Flutter developer and student currently based in Gujranwala. I specialize in building cross-platform mobile applications with a focus on clean, efficient, and user-friendly designs. I'm always exploring new technologies and love working on innovative projects that challenge my skills. Check out my repositories to see some of the apps I've developed, including weather apps, food recipe apps, and more. Let's connect and collaborate on exciting projects!<br><br>Feel free to contact me!<br>haseebkhan.dev@gmail.com
+Hi, I'm Haseeb Khan, a passionate Flutter developer and student currently based in Gujranwala. I specialize in building cross-platform mobile applications with a focus on clean, efficient, and user-friendly designs. I'm always exploring new technologies and love working on innovative projects that challenge my skills. Check out my repositories to see some of the apps I've developed, including weather apps, food recipe apps, and more. Let's connect and collaborate on exciting projects!<br><br>Feel free to contact me!<br>contacthaseebkhan.dev@gmail.com
 
 
 ## 🌐 Socials:
