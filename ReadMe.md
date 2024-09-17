@@ -16,6 +16,10 @@ Hi, I'm Haseeb Khan, a passionate Flutter developer and student currently based 
 ![](https://github-contributor-stats.vercel.app/api?username=HaseebKhanGitHub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=HaseebKhanGitHub)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HaseebKhanGitHub&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 [![](https://visitcount.itsvg.in/api?id=HaseebKhanGitHub&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
